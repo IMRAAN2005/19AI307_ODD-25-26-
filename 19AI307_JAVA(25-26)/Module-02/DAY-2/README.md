@@ -27,9 +27,9 @@ To write a Java program that defines a method cube(int x) which internally calls
 ## PROGRAM:
  ```
 /*
-Program to implement a Methods using Java
-Developed by: LOKESH N
-Register Number:212222100023
+Program to implement a Smallest Element in an Array
+Developed by: SHAIK MAHAMMAD IMRAAN
+RegisterNumber:  212223100053
 */
 ```
 
@@ -67,6 +67,7 @@ public class main
 
 ## RESULT:
 Therefore the program successfully computes the cube of a number by internally using the square method.
+
 
 
 
